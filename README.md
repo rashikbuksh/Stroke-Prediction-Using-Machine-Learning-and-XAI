@@ -6,3 +6,4 @@
 2. Decision Tree
 3. SVM (Support Vector Machine)
 
+# Google Colab Link: https://colab.research.google.com/drive/1rJ3GfJD6qeKxbhTaAR-s8jpakHkIEDSP?usp=sharing
